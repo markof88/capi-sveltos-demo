@@ -60,7 +60,6 @@ This repository demonstrates how to use **Cluster API (CAPI)** to provision a Ku
 git clone git@github.com:<YOUR_GH_USER>/capi-sveltos-demo.git
 cd capi-sveltos-demo
 
-# Optional: create Python venv/direnv, etc.
 ```
 
 Then follow sections 1 → 10 below.
